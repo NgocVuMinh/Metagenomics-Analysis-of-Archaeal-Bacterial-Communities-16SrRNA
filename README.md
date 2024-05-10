@@ -5,7 +5,7 @@ This repository contains R scripts used to process 16S rRNA sequencing data to a
 
 Samples were collected from three biotopes: corals (Acropora sp. and Lobophyllia sp. a.k.a. brain corals), sediment surrounding the coral reefs, and water columns above the reefs. 16 samples were collected in total. 16S rRNA sequencing was performed using Illumina Hiseq.
 
-This repo is part of the study: [Phuong Thao, N. T., Minh Ngoc, V., Tra, P. V., & Bui Van. (2023). Metagenomic characterization of archaeal and bacterial communities associated with coral, sediment, and seawater in a coral reef ecosystem of Phu Quoc island, Vietnam . Vietnam Journal of Biotechnology, 21(4), 745–757.](https://doi.org/10.15625/1811-4989/20283)
+This repo is part of the study: Phuong Thao, N. T., Minh Ngoc, V., Tra, P. V., & Bui Van. (2023). *Metagenomic characterization of archaeal and bacterial communities associated with coral, sediment, and seawater in a coral reef ecosystem of Phu Quoc island, Vietnam.* [Vietnam Journal of Biotechnology, 21(4), 745–757.](https://doi.org/10.15625/1811-4989/20283)
 
 ## 16S rRNA sequencing data
 The data in FASTQ format will be made available upon reasonable requests. The original data was provided by the Department of Bioinformatics, Institute of Biotechnology, Vietnam Academy of Science and Technology (VAST).
